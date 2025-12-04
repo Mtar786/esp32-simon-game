@@ -1,7 +1,6 @@
 <img width="1284" height="895" alt="image" src="https://github.com/user-attachments/assets/cc7e272e-7efc-4f7f-a301-5cff1dca22e9" />
 
 
-
 📟 ESP32 Simon Game — FreeRTOS, RFID Profiles, LCD, RTC
 
 A feature-rich Simon memory game built on the ESP32-S3, using FreeRTOS multitasking, RFID player profiles, LCD UI, persistent high scores, and real-time timestamps.
