@@ -11,6 +11,7 @@ A feature-rich Simon memory game built on the ESP32-S3, using FreeRTOS multitask
 This project was built as a final embedded systems project by
 Easton Anderson and Muhammad Rahman.
 
+
 🎮 Features
 🧠 Classic Simon Game
 
